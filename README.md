@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevigneshbalaji&theme=radical&show_icons=true&locale=en" alt="thevigneshbalaji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevigneshbalaji&theme=radical" alt="thevigneshbalaji" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevigneshbalaji&theme=radical" alt="thevigneshbalaji" /></p>
