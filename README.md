@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps, Spring and Java**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@thevigneshbalaji)
+- 📝 I seldom write articles on [Medium](https://medium.com/@thevigneshbalaji)
 
 - 📫 Here's how to reach me **thevigneshbalaji@gmail.com**
 
